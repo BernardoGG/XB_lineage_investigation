@@ -8,7 +8,7 @@ library(ggmap)
 library(data.table)
 
 # Register Google API Key
-register_google(key = 'AIzaSyDAsgYtiZfcFYN3jEjcWL1c6NlQwEXMXcQ')
+#register_google(key = **INSERT GOOGLE Key here**)
 
 
 ######### Operational components #############################################################################################
