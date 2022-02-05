@@ -17,3 +17,35 @@ Bernardo Gutierrez<sup>1,2,3</sup>, Hugo Gildardo Castelán Sánchez<sup>1,2,4</
 <sup>9</sup>Department of Veterinary Medicine, University of Cambridge, Cambridge, UK.
 <sup>10</sup>Departamento de Ingeniería Genética, Unidad Irapuato, CINVESTAV, Mexico.
 <sup>11</sup>Department of Pathobiology, Royal Veterinary College, London UK.</sup>
+
+
+## Repository usage and structure
+
+The structure of this repository is shown below. All R scripts used to generate plots or analyses are located in the root directory. Further details for the contents of specific directories is further explained below.
+
+```
+XB_lineage_investigation/
+├── Data
+│   ├── OWID_data
+│   └── genetic_data
+│       ├── GISAID_20210831_alignments
+│       ├── Reduced_alignments
+│       ├── Snipit_alignments
+│       └── metadata
+├── XB_phylogenetics
+│   ├── IQ_Tree
+│   │   ├── GISAID_20210831_trees
+│   │   └── Reduced_trees
+│   └── UShER
+├── XB_recombination_analysis
+│   ├── 3SEQ
+│   ├── RDP
+│   └── GARD
+├── Plots
+├── Acknowledgements
+└── README.md
+```
+
+## Input data
+
+The [`Data`](Data/) directory contains specific alignments used for the phylogenetic and recombination analyses. All SARS-CoV-2 genomic data was retrieved from GISAID (www.gisaid.org). We are grateful to all the laboratories and institutions worldwide involved in the generation of virus genome data shared on GISAID, and a full list of the laboratories who produced the sequences used in this study is available in the [`Acknowledgements`](Acknowledgements/) directory. Additional epidemiological data was retrieved from the Our Wrld in Data repository (https://ourworldindata.org/coronavirus).
