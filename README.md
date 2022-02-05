@@ -1,5 +1,8 @@
 # Emergence and widespread circulation of a recombinant SARS-CoV-2 lineage in North America
+
 Investigation of the potential role of recombination on the origin and evolution of SARS-CoV-2 lineages B.1.627, B.1.628, B.1.631 and B.1.634.
+
+
 
 
 Bernardo Gutierrez<sup>1,2,3</sup>, Hugo Gildardo Castelán Sánchez<sup>2,4</sup>, Darlan da Silva Candido<sup>1,5</sup>, Ben Jackson<sup>6</sup>, Shay Fleishon<sup>7</sup>, Renaud Houzet<sup>8</sup>, Christopher Ruis<sup>9,10</sup>, Luis Delaye<sup>2,11</sup>, Nuno R. Faria<sup>1,5,12,13</sup>, Andrew Rambaut<sup>6</sup>, Oliver G. Pybus<sup>1,11*</sup>, Marina Escalera-Zamudio<sup>1,2*</sup>
