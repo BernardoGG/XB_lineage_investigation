@@ -1,7 +1,6 @@
 # Emergence and widespread circulation of a recombinant SARS-CoV-2 lineage in North America
 
-Investigation of the potential role of recombination on the origin and evolution of SARS-CoV-2 lineages B.1.627, B.1.628, B.1.631 and B.1.634.
-
+Identification of the recombinant SARS-CoV-2 lineage XB, formerly B.1.628, determined through an investigation of lineages B.1.627, B.1.628, B.1.631 and B.1.634.
 
 
 
