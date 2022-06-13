@@ -50,6 +50,12 @@ XB_lineage_investigation/
 └── README.md
 ```
 
-## Input data
+## Input data and supplemental tables
 
-The [`Data`](Data/) directory contains specific alignments used for the phylogenetic and recombination analyses. All SARS-CoV-2 genomic data was retrieved from GISAID (www.gisaid.org). We are grateful to all the laboratories and institutions worldwide involved in the generation of virus genome data shared on GISAID, and a full list of the laboratories who produced the sequences used in this study is available in the [`Acknowledgements`](Acknowledgements/) directory. Additional epidemiological data was retrieved from the Our Wrld in Data repository (https://ourworldindata.org/coronavirus).
+The [`Data`](Data/) directory contains specific alignments used for the phylogenetic and recombination analyses. All SARS-CoV-2 genomic data was retrieved from GISAID (www.gisaid.org). We are grateful to all the laboratories and institutions worldwide involved in the generation of virus genome data shared on this platform. 
+
+*Table S1* contains the re-occurring deletions across the SARS-CoV-2 genome sequences used in this study, encoded as discrete traits, and is available in the [`Acknowledgements`](Acknowledgements/) directory.
+
+*Table S2* presents a full list of the laboratories who produced the sequences used in this study and is available in the [`Data`](Data/) directory.
+
+Additional epidemiological data was retrieved from the Our Wrld in Data repository (https://ourworldindata.org/coronavirus).
